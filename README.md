@@ -1,6 +1,13 @@
 ![](github_banner.png)
-## Hi there 👋
+## Hi there, I'm Kavin Aarya 👋
 
+I am a passionate front-end web developer who enjoys building practical and innovative solutions using front-end web technologies and artificial intelligence. I like to solve real-world problems that can positively transform people’s lives and support them in their day-to-day activities. I have strong problem-solving skills and regularly practice data structures and algorithms through competitive programming. My main interests include web development, artificial intelligence, data structures & algorithms and competitve programming. I am always eager to learn new technologies, participate in challenging projects, and create applications that are useful, impactful, and accessible to everyone.
+
+- 🤖 I’m currently working on a project to transform traditional doctor prescription methods
+- 🌐 I’m currently learning backend web technologies
+- 🏆 I’m a 2 ⭐️ CodeChef programmer (rating 1416), continuously improving my competitive programming and problem-solving skills.
+- 💻 I'm a LeetCode programmer with 300+ problems solved across a wide range of data structures and algorithms.
+## 
 <!--
 **Kavin-Aarya/Kavin-Aarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
