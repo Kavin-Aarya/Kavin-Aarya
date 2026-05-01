@@ -10,7 +10,7 @@ I am a passionate full stack web developer who enjoys building practical and inn
   
 ## Languages and Framework
 
-![Languages](https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,react,tailwind,express,nodejs,redux,flask,mongodb)
+![Languages](https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,react,tailwind,express,nodejs,flask,mongodb)
 
 ## Tools & Environment
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm,vite)
