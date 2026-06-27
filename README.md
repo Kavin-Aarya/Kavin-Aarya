@@ -1,7 +1,7 @@
 ![](github_banner.png)
 ## Hi there, I'm Kavin Aarya 👋
 
-I am a passionate full stack web developer who enjoys building practical and innovative solutions using Mern stack web technologies and artificial intelligence. I like to solve real-world problems that can positively transform people’s lives and support them in their day-to-day activities. I have strong problem-solving skills and regularly practice data structures and algorithms through competitive programming. My main interests include web development, artificial intelligence, data structures & algorithms and competitve programming. I am always eager to learn new technologies, participate in challenging projects, and create applications that are useful, impactful, and accessible to everyone.
+I am a Java Full-Stack Developer focused on building practical web applications that solve everyday problems. On the backend, I use Spring Boot to build reliable architectures, which I pair with modern frontend technologies like React, JavaScript, and Tailwind CSS, alongside Artificial Intelligence features. Because I actively participate in competitive programming, I have a strong foundation in Data Structures and Algorithms (DSA), allowing me to write highly optimized and efficient code. I am always eager to learn new technologies and want to collaborate on projects that create useful, accessible software for everyone.
 
 - 🤖 I’m currently working on a project to transform traditional doctor prescription methods.
 - 🌐 I’m currently learning backend web technologies.
@@ -10,7 +10,7 @@ I am a passionate full stack web developer who enjoys building practical and inn
   
 ## Languages and Framework
 
-![Languages](https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,react,tailwind,express,nodejs,flask,mongodb)
+![Languages](https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,react,tailwind,mongodb,spring,hibernate,postgres,maven)
 
 ## Tools & Environment
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm,vite)
